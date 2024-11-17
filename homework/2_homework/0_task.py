@@ -1,13 +1,13 @@
 print("\nNumbers: \n")
-num_1 = 5
+num_0 = 5
 num_2 = 5.0
 num_3 = 10
 num_4 = 10.1
 
-print(type(num_1))
+print(type(num_0))
 print(type(num_2))
 
-print(num_1 == num_2)
+print(num_0 == num_2)
 print(num_3 == num_4)
 print(num_3 < num_4)
 
